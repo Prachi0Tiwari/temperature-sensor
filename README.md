@@ -1,3 +1,4 @@
+
 # temperature-sensor
 In this project me and my team members used a raspberry pi with lm35 sensor and lcd to display the current temperature.
 
@@ -12,3 +13,5 @@ ALGORITHM:
 5.Update the LCD display with the current temperature reading.
 6.Repeat the above steps to provide real-time temperature monitoring.
 7.Handle any exceptions or interruptions gracefully to ensure proper program termination.
+
+![project](https://github.com/Prachi0Tiwari/temperature-sensor/assets/91770870/6c9c91f1-d7a3-43c2-a69b-af36b6dd6553)
