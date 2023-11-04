@@ -1,5 +1,6 @@
 # temperature-sensor
 In this project me and my team members used a raspberry pi with lm35 sensor and lcd to display the current temperature.
+
 ABSTRACT:
 This project involves connecting an LM235 temperature sensor and a 2x16 LCD display to a Raspberry Pi. The LM235 sensor will measure the ambient temperature and provide an analog voltage output, which will be read by the Raspberry Pi's analog-to-digital converter (ADC). The Raspberry Pi will then process this data and display the temperature on the LCD screen. This setup can be used for various applications, including environmental monitoring and home automation.
 
